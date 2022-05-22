@@ -1,0 +1,8 @@
+{
+	//All ITEMS
+	"item.decorock.botella": "Botella",
+	"item.decorock.cerveza": "Cerveza",
+	"item.decorock.soda": "Soda",
+	//ALL BLOCKS
+	"block.decorock.ladrillos": "Ladrillo"
+}
